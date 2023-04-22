@@ -1,6 +1,24 @@
-### Hi there 👋
+# Hi there 👋
 
-**'Software Engineer(Full-Stack, Data Science, ML, AI)'**
+**`Aspiring Software Engineer (Full-Stack, Data Science, ML, AI)`**
+
+Hey there! I'm Danial and I am currently attending Bishop P. F. Reding High School as an AP SHSM Student in Grade 11 trying to pursue my lifetime goal of becoming a Full-Stack Web Development/Software Engineer. My passions are coding programs/websites, chess, badminton, competitive typing, photo/video-editing, and solving puzzles. 
+
+Focus: Full-Stack Web Development (ReactJS, TypeScript, JS, C++, C#)
+<p align="center">
+  <a href="https://www.linkedin.com/in/danial-suhail-4a4bab258/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/8Y8uOWi.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DraconiQ_"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OKWYCiM.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.reddit.com/user/Draconiqofficial" alt="Reddit" title="Reddit"><img width="32px" src="https://i.imgur.com/kB51t3G.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/draconiqofficial/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/d0UAiSD.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+</p>
+
+
+---
 <!--
 **Danial-Suhail/Danial-Suhail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
