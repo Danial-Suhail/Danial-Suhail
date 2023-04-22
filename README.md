@@ -16,7 +16,6 @@ Focus: Full-Stack Web Development (ReactJS, TypeScript, JS, C++, C#)
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
----
 
 ### 🧰 Languages and Tools
 
