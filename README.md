@@ -12,7 +12,7 @@ Focus: Full-Stack Web Development (ReactJS, TypeScript, JS, C++, C#)
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.reddit.com/user/Draconiqofficial" alt="Reddit" title="Reddit"><img width="32px" src="https://i.imgur.com/kB51t3G.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/draconiqofficial/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/d0UAiSD.png"></a>
+  <a href="https://www.instagram.com/danial_suhail_/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/d0UAiSD.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 
