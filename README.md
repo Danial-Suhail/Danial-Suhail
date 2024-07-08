@@ -2,7 +2,7 @@
 
 **`Aspiring Software Engineer (Full-Stack, Data Science, ML, AI)`**
 
-Hey there! I'm Danial and I am currently attending the University of Waterloo as an Computer Engineer trying to pursue my lifetime goal of becoming a Full-Stack Web Development/Software Engineer. My passions are coding programs/websites, chess, badminton, competitive typing, photo/video-editing, and solving puzzles. 
+Hey there! I'm Danial and I am currently attending the University of Waterloo as a Computer Engineer trying to pursue my lifetime goal of becoming a Full-Stack Web Development/Software Engineer. My passions are coding programs/websites, chess, badminton, competitive typing, photo/video editing, and solving puzzles. 
 
 Focus: Full-Stack Web Development (ReactJS, TypeScript, JS, C++, C#)
 <p align="center">
