@@ -14,14 +14,12 @@ Focus: Full-Stack Web Development (ReactJS, TypeScript, JS, C++, C#)
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/danial_suhail_/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/d0UAiSD.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
-
 </p>
 
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Danial-Suhail&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="167px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Danial-Suhail&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="167px"/></a>
-
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Danial-Suhail&theme=dark&hide_border=true&card_height=170&stroke=D65472&ring=D65472&background=1F222E" alt="GitHub Streak" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Danial-Suhail&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="170px"/></a>
+</div>
 
 ---
 ### 👨‍💻 Coding Languages and Tools
