@@ -6,7 +6,7 @@ Hey there! I'm Danial and I am currently attending the University of Waterloo as
 
 Focus: Full-Stack Web Development (ReactJS, TypeScript, JS, C++, C#)
 <p align="center">
-  <a href="https://www.linkedin.com/in/danial-suhail-4a4bab258/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/8Y8uOWi.png"/></a>
+  <a href="https://www.linkedin.com/in/danial-suhail/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/8Y8uOWi.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DraconiQ_"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OKWYCiM.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
