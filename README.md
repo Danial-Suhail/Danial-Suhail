@@ -5,6 +5,7 @@
 Hey there! I'm Danial and I am currently attending the University of Waterloo as a Computer Engineer trying to pursue my lifetime goal of becoming a Full-Stack Web Development/Software Engineer. My passions are coding programs/websites, chess, badminton, competitive typing, photo/video editing, and solving puzzles. 
 
 Focus: Full-Stack Web Development (ReactJS, TypeScript, JS, C++, C#)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/danial-suhail/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/8Y8uOWi.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -15,7 +16,7 @@ Focus: Full-Stack Web Development (ReactJS, TypeScript, JS, C++, C#)
   <a href="https://www.instagram.com/danial_suhail_/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/d0UAiSD.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
----
+
 ### 👨‍💻 Coding Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
