@@ -2,16 +2,15 @@
 
 **`Aspiring Software Engineer (Full-Stack, Data Science, ML, AI)`**
 
-Hey there! I'm Danial and I am currently attending the University of Waterloo as a Computer Engineer trying to pursue my lifetime goal of becoming a Full-Stack Web Development/Software Engineer. My passions are coding programs/websites, chess, badminton, competitive typing, photo/video editing, and solving puzzles. 
+Hey there! I'm Danial and I am currently attending the University of Waterloo as a Computer Engineer trying to pursue my lifetime goal of becoming a Full-Stack Web Development/Software Engineer. I'm passionate about bringing ideas to life through building websites, competitive typing, and sharpening my skills in photo/video editing.
 
-Focus: Full-Stack Web Development (ReactJS, TypeScript, JS, C++, C#)
+Focus: Full-Stack Web Development (T3, SERN, MERN)
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danial-suhail/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/8Y8uOWi.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DraconiQ_"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OKWYCiM.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.reddit.com/user/Draconiqofficial" alt="Reddit" title="Reddit"><img width="32px" src="https://i.imgur.com/kB51t3G.png"/></a>
+  <a href="https://x.com/danialsuhail_"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OKWYCiM.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/danial_suhail_/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/d0UAiSD.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
