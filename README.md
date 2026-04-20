@@ -8,14 +8,13 @@ Prev. HMI SWE @ Ford 🚙
 
 I enjoy building and optimizing systems. My experience includes low-level firmware (C/C++), vehicular systems, Android development, and full-stack applications. I’m currently looking to explore more backend systems and GPU programming. 
 
+Current Focus: ML Systems & Compilers (C++, CUDA, RISC-V)
+
 I spend my free-time [competitive typing](https://monkeytype.com/profile/Draconic), photo/video editing, and learning difficult languages!
 
 **Fun Facts**: 
 - I hit a 1000-day [Duolingo](https://www.duolingo.com/profile/draconiq_) streak in Japanese 🏯  
 - “Beat the #1 ranked Bedwars player in 2021 🛌”
-
-Current Focus: ML Systems & Compilers (C++, CUDA, RISC-V)
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danial-suhail/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/8Y8uOWi.png"/></a>
