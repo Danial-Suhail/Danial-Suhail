@@ -1,10 +1,20 @@
 # Hi there 👋
 
-**`Software Engineer (Full-Stack, Data Science, ML, AI)`**
+**`Software Engineer (Full-Stack, Robotics, Firmware, Android)`**
 
-Hey there! I'm Danial and I am currently attending the University of Waterloo as a Computer Engineer trying to pursue my lifetime goal of becoming a Full-Stack Web Developer/Software Engineer. I'm passionate about bringing ideas to life through building websites, [competitive typing](https://monkeytype.com/profile/Draconic), and sharpening my skills in photo/video editing.
+I'm Danial, a Computer Engineering student @ University of Waterloo  
 
-Focus: Full-Stack Web Development (T3, SERN, MERN)
+Prev. HMI SWE @ Ford 🚙
+
+I enjoy building and optimizing systems. My experience includes low-level firmware (C/C++), vehicular systems, Android development, and full-stack applications. I’m currently looking to explore more backend systems and GPU programming. 
+
+I spend my free-time [competitive typing](https://monkeytype.com/profile/Draconic), photo/video editing, and learning difficult languages!
+
+**Fun Facts**: 
+- I hit a 1000-day [Duolingo](https://www.duolingo.com/profile/draconiq_) streak in Japanese 🏯  
+- “Beat the #1 ranked Bedwars player in 2021 🛌”
+
+Current Focus: ML Systems & Compilers (C++, CUDA, RISC-V)
 
 
 <p align="center">
